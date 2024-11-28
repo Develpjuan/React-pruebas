@@ -7,6 +7,7 @@ function Navbar() {
             <nav>
                 <Link to="/Home">Inicio</Link>
                 <Link to="/Form">Formulario</Link>
+                <Link to="/CrearUsuario">Crear Usuario</Link>
             </nav>
         </header>
         
