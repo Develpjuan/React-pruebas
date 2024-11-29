@@ -37,7 +37,7 @@ function Form() {
       } else {
         console.error("Error en el login:", data.message);
         alert("Error:" + data.message);
-      }
+      } 
     } catch (error) {
       console.error("Error al conectar con el servidor", error);
         alert("Error al conectar con el servidor");
